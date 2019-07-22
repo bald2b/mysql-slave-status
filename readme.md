@@ -6,6 +6,13 @@ Cli util that just print to stdout short status of mysql slave instance
 * Status
 * Error (if has)
     
+### Installation
+
+Run `go get github.com/bald2b/mysql-slave-status`
+
+Minimal requirements:
+* golang 1.11+
+
 ### Usage
 
 * **-h** mysql **h**ost:port (default 127.0.0.1:3306)
