@@ -8,7 +8,11 @@ Cli util that just print to stdout short status of mysql slave instance
     
 ### Installation
 
-Run `go get github.com/bald2b/mysql-slave-status`
+Download from [releases](https://github.com/bald2b/mysql-slave-status/releases)
+
+or run 
+
+`go get github.com/bald2b/mysql-slave-status`
 
 Minimal requirements:
 * golang 1.11+
